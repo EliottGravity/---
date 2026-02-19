@@ -184,7 +184,7 @@
         <mxCell id="o-clID736mxaneeVXY5I-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;p data-start=&quot;367&quot; data-end=&quot;495&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(The fog is so thick that the player can barely make out shapes.&lt;br&gt;2 tiny fairies sometimes appear to guide them ; one leads east, the other leads west.&lt;br&gt;Each fairy follows a distinct movement pattern that the player must mimic to find the correct path.)&lt;/font&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="92.5" width="200" x="1900" y="1720" as="geometry" />
         </mxCell>
-        <mxCell id="o-clID736mxaneeVXY5I-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;A barrier blocks direct access to the generator. A small opening serves as the only passage.&lt;/font&gt;" vertex="1">
+        <mxCell id="o-clID736mxaneeVXY5I-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;A barrier blocks direct access to the generator. A small opening serves as the only passage.&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="2190" y="1133" as="geometry" />
         </mxCell>
         <mxCell id="o-clID736mxaneeVXY5I-3" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
