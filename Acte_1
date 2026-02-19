@@ -184,6 +184,9 @@
         <mxCell id="o-clID736mxaneeVXY5I-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Act 2" vertex="1">
           <mxGeometry height="30" width="60" x="1969.99" y="790" as="geometry" />
         </mxCell>
+        <mxCell id="o-clID736mxaneeVXY5I-24" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#d6b656;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fff2cc;shape=mxgraph.mscae.enterprise.lock;gradientColor=#ffd966;" value="" vertex="1">
+          <mxGeometry height="25" width="19.5" x="1680" y="1205" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
