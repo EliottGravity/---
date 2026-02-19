@@ -13,7 +13,7 @@
         <mxCell id="Qj4Sdoe4lRcvRfqs2pIy-7" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" value="SPAWN" vertex="1">
           <mxGeometry height="50" width="110" x="1945.01" y="1480" as="geometry" />
         </mxCell>
-        <mxCell id="Qj4Sdoe4lRcvRfqs2pIy-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="Qj4Sdoe4lRcvRfqs2pIy-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" value="" vertex="1">
           <mxGeometry height="280" width="400" x="2320" y="1080" as="geometry" />
         </mxCell>
         <mxCell id="Qj4Sdoe4lRcvRfqs2pIy-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" value="" vertex="1">
@@ -121,7 +121,7 @@
         <mxCell id="o-clID736mxaneeVXY5I-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="The maze" vertex="1">
           <mxGeometry height="30" width="60" x="1210" y="1196" as="geometry" />
         </mxCell>
-        <mxCell id="o-clID736mxaneeVXY5I-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffcd28;align=center;verticalAlign=middle;rounded=0;gradientColor=#ffa500;" value="Generator" vertex="1">
+        <mxCell id="o-clID736mxaneeVXY5I-7" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;" value="Generator" vertex="1">
           <mxGeometry height="30" width="60" x="2460" y="1205" as="geometry" />
         </mxCell>
         <mxCell id="o-clID736mxaneeVXY5I-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="" vertex="1">
