@@ -244,6 +244,15 @@
         <mxCell id="2_MGupzy3VNG_ERqmnZ_-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Option 3" vertex="1">
           <mxGeometry height="30" width="80.01" x="2820" y="1842.5" as="geometry" />
         </mxCell>
+        <mxCell id="2_MGupzy3VNG_ERqmnZ_-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Old Key" vertex="1">
+          <mxGeometry height="30" width="80.01" x="3180" y="1685" as="geometry" />
+        </mxCell>
+        <mxCell id="2_MGupzy3VNG_ERqmnZ_-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Lantern" vertex="1">
+          <mxGeometry height="30" width="80.01" x="3180" y="1770" as="geometry" />
+        </mxCell>
+        <mxCell id="2_MGupzy3VNG_ERqmnZ_-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Flashback" vertex="1">
+          <mxGeometry height="30" width="80.01" x="3180" y="1842.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
