@@ -160,8 +160,8 @@
         <mxCell id="o-clID736mxaneeVXY5I-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="large central square" vertex="1">
           <mxGeometry height="30" width="130" x="1935" y="1140" as="geometry" />
         </mxCell>
-        <mxCell id="o-clID736mxaneeVXY5I-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;(campfire &amp;amp; Save)&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;a character next to the campfire would talk to the player&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="101.87" x="1949.06" y="1180" as="geometry" />
+        <mxCell id="o-clID736mxaneeVXY5I-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;(campfire &amp;amp; Save)&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;a character next to the campfire would talk to the player explaining what to do&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="101.87" x="1949.06" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="o-clID736mxaneeVXY5I-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="760" y="1880" as="geometry" />
