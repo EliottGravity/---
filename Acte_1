@@ -226,6 +226,9 @@
         <mxCell id="o-clID736mxaneeVXY5I-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;(The player wakes up with no memory. Thick fog surrounds the area, forming an impassable wall in every direction. They can only wander within a small clearing. After about 10 seconds, a tiny fairy appears and beckons them forward, guiding them to The Campfire’s Rest.)&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="210" x="1895.01" y="1520" as="geometry" />
         </mxCell>
+        <mxCell id="o-clID736mxaneeVXY5I-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;(At first, the fog acts as a solid barrier, blocking any further progress. After obtaining the lantern, the fog thins out, opening new paths and allowing the player to push deeper into the area.)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="240" x="2430" y="1520" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
