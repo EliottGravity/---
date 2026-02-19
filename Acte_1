@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.4.0">
   <diagram name="Act_1" id="0zNQPczPh-y4CPBXo-Kb">
-    <mxGraphModel dx="1181" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="1722" dy="919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,16 +65,16 @@
           <mxGeometry height="34" width="20" x="2590" y="1146" as="geometry" />
         </mxCell>
         <mxCell id="Qj4Sdoe4lRcvRfqs2pIy-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="" vertex="1">
-          <mxGeometry height="40" width="40" x="1000" y="1640" as="geometry" />
+          <mxGeometry height="40" width="40" x="760" y="1680" as="geometry" />
         </mxCell>
         <mxCell id="Qj4Sdoe4lRcvRfqs2pIy-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" value="" vertex="1">
-          <mxGeometry height="40" width="40" x="1000" y="1560" as="geometry" />
+          <mxGeometry height="40" width="40" x="760" y="1600" as="geometry" />
         </mxCell>
         <mxCell id="Qj4Sdoe4lRcvRfqs2pIy-29" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Secret Area" vertex="1">
-          <mxGeometry height="30" width="60" x="1050" y="1645" as="geometry" />
+          <mxGeometry height="30" width="60" x="810" y="1685" as="geometry" />
         </mxCell>
         <mxCell id="Qj4Sdoe4lRcvRfqs2pIy-31" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Annex Area" vertex="1">
-          <mxGeometry height="30" width="60" x="1050" y="1565" as="geometry" />
+          <mxGeometry height="30" width="60" x="810" y="1605" as="geometry" />
         </mxCell>
         <mxCell id="Qj4Sdoe4lRcvRfqs2pIy-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;" value="" vertex="1">
           <mxGeometry height="280" width="400" x="3280" y="1080" as="geometry" />
@@ -152,10 +152,10 @@
           <mxGeometry height="70" width="101.87" x="1949.06" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="o-clID736mxaneeVXY5I-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" value="" vertex="1">
-          <mxGeometry height="40" width="40" x="1000" y="1720" as="geometry" />
+          <mxGeometry height="40" width="40" x="760" y="1760" as="geometry" />
         </mxCell>
         <mxCell id="o-clID736mxaneeVXY5I-17" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Puzzle" vertex="1">
-          <mxGeometry height="30" width="60" x="1050" y="1725" as="geometry" />
+          <mxGeometry height="30" width="60" x="810" y="1765" as="geometry" />
         </mxCell>
         <mxCell id="o-clID736mxaneeVXY5I-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;(door locked)&lt;br&gt;(need to solve the generator &amp;amp; labyrinthe puzzle to open it)&lt;/font&gt;" vertex="1">
           <mxGeometry height="54" width="169.99" x="1915.01" y="1060" as="geometry" />
