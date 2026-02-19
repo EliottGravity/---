@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.4.0">
   <diagram name="Act_1" id="0zNQPczPh-y4CPBXo-Kb">
-    <mxGraphModel dx="475" dy="254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="574" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -231,6 +231,9 @@
         </mxCell>
         <mxCell id="o-clID736mxaneeVXY5I-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;(A secluded clearing surrounded by trees. A short pebble trail lies directly in front of a massive ancient tree, guiding the player straight to its trunk. Inside the hollow, an &lt;span data-start=&quot;298&quot; data-end=&quot;309&quot; style=&quot;&quot;&gt;Old Key&lt;/span&gt; rests among the roots. Once obtained, it can unlock a sealed path or a hidden entrance elsewhere on other Act.)&lt;/font&gt;" vertex="1">
           <mxGeometry height="75" width="260" x="2429.99" y="1737.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2_MGupzy3VNG_ERqmnZ_-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;(A secluded clearing surrounded by trees. A short pebble trail lies directly in front of a massive ancient tree, guiding the player straight to its trunk. Inside the hollow, a &lt;span data-start=&quot;196&quot; data-end=&quot;212&quot; style=&quot;&quot;&gt;Memory Shard&lt;/span&gt; rests among the roots. When picked up, it triggers a brief flashback.)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="260" x="2410" y="1920" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
