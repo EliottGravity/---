@@ -118,7 +118,7 @@
             <mxPoint x="1610" y="1195.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o-clID736mxaneeVXY5I-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Labyrinthe" vertex="1">
+        <mxCell id="o-clID736mxaneeVXY5I-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="The maze" vertex="1">
           <mxGeometry height="30" width="60" x="1210" y="1196" as="geometry" />
         </mxCell>
         <mxCell id="o-clID736mxaneeVXY5I-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffcd28;align=center;verticalAlign=middle;rounded=0;gradientColor=#ffa500;" value="Generator" vertex="1">
