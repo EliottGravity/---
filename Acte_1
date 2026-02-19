@@ -160,8 +160,8 @@
         <mxCell id="o-clID736mxaneeVXY5I-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="large central square" vertex="1">
           <mxGeometry height="30" width="130" x="1935" y="1140" as="geometry" />
         </mxCell>
-        <mxCell id="o-clID736mxaneeVXY5I-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;(campfire &amp;amp; Save)&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="101.87" x="1949.0600000000002" y="1180" as="geometry" />
+        <mxCell id="o-clID736mxaneeVXY5I-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;(campfire &amp;amp; Save)&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;a character next to the campfire would talk to the player&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="101.87" x="1949.06" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="o-clID736mxaneeVXY5I-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="760" y="1880" as="geometry" />
@@ -172,8 +172,8 @@
         <mxCell id="o-clID736mxaneeVXY5I-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;(door locked)&lt;br&gt;(need to solve the generator &amp;amp; labyrinthe puzzle to open it)&lt;/font&gt;" vertex="1">
           <mxGeometry height="54" width="169.99" x="1915.01" y="1060" as="geometry" />
         </mxCell>
-        <mxCell id="o-clID736mxaneeVXY5I-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;(need 3 items to repair it)&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;- scotch tape&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;- toolbox&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;- gasoline&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;(When solve, a light appear above the door &amp;amp; unlock access to the labyrinthe)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="125" width="120" x="2440" y="1235" as="geometry" />
+        <mxCell id="o-clID736mxaneeVXY5I-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;(need 3 items to repair it)&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;- scotch tape (in the well)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;- toolbox (in the cave of the shack)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;- gasoline (in the labyrinth)&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;(When solve, a light appear above the door &amp;amp; unlock it)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="95" width="140" x="2440" y="1235" as="geometry" />
         </mxCell>
         <mxCell id="o-clID736mxaneeVXY5I-21" edge="1" parent="1" source="Qj4Sdoe4lRcvRfqs2pIy-45" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -183,9 +183,6 @@
         </mxCell>
         <mxCell id="o-clID736mxaneeVXY5I-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Act 2" vertex="1">
           <mxGeometry height="30" width="60" x="1969.99" y="790" as="geometry" />
-        </mxCell>
-        <mxCell id="o-clID736mxaneeVXY5I-24" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#d6b656;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fff2cc;shape=mxgraph.mscae.enterprise.lock;gradientColor=#ffd966;" value="" vertex="1">
-          <mxGeometry height="25" width="19.5" x="1680" y="1205" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
