@@ -205,6 +205,9 @@
             <mxPoint x="1610" y="1195.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="o-clID736mxaneeVXY5I-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Labyrinthe" vertex="1">
+          <mxGeometry height="30" width="60" x="1210" y="1276.1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
