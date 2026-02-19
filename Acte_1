@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.4.0">
   <diagram name="Act_1" id="0zNQPczPh-y4CPBXo-Kb">
-    <mxGraphModel dx="1181" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="689" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,8 +148,8 @@
         <mxCell id="o-clID736mxaneeVXY5I-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Misty Forest" vertex="1">
           <mxGeometry height="30" width="80.01" x="1959.99" y="1695" as="geometry" />
         </mxCell>
-        <mxCell id="o-clID736mxaneeVXY5I-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;(campfire &amp;amp; Save)&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;a character next to the campfire would talk to the player explaining what to do&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="101.87" x="1949.06" y="1180" as="geometry" />
+        <mxCell id="o-clID736mxaneeVXY5I-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;(campfire &amp;amp; Save)&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;a character next to the campfire would talk to the player explaining what to do and giving him a lantern.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="101.87" x="1949.06" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="o-clID736mxaneeVXY5I-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="760" y="1760" as="geometry" />
@@ -227,7 +227,7 @@
           <mxGeometry height="80" width="210" x="1895.01" y="1520" as="geometry" />
         </mxCell>
         <mxCell id="o-clID736mxaneeVXY5I-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;(At first, the fog acts as a solid barrier, blocking any further progress. After obtaining the lantern, the fog thins out, opening new paths and allowing the player to push deeper into the area.)&lt;/font&gt;" vertex="1">
-          <mxGeometry height="50" width="240" x="2430" y="1520" as="geometry" />
+          <mxGeometry height="50" width="240" x="1880.01" y="1344.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
